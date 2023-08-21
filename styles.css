@@ -1,2 +1,5 @@
 /*  your css code here. If applicable */
-#table1{ background-color:yellow;}
+#table1
+{ background-color:yellow;
+ border:1px solid black;
+}
